@@ -41,17 +41,17 @@ Here is a complete tour of the **Amader Khorchapati** user interface:
 
 | Expense History | Visual Reports |
 | :---: | :---: |
-| <img src="./assets/history.png" width="150" alt="History" /> | <img src="./assets/report.png" width="150" alt="Reports" /> |
+| <img src="./assets/history.PNG" width="150" alt="History" /> | <img src="./assets/report.PNG" width="150" alt="Reports" /> |
 | *Filter history by day, month or year* | *Spending analysis charts* |
 
 | Dashboard & Home | Add Expense |
 | :---: | :---: |
-| <img src="./assets/home.png" width="150" alt="Home Screen" /> | <img src="./assets/add-expense.png" width="150" alt="Add Expense" /> |
+| <img src="./assets/home.PNG" width="150" alt="Home Screen" /> | <img src="./assets/add-expense.PNG" width="150" alt="Add Expense" /> |
 | *Intuitive Dashboard showing balance* | *Quickly add daily expenses* |
 
 | More Tools (Zakat, Loan, Savings) | Menu & Settings |
 | :---: | :---: |
-| <img src="./assets/tools.png" width="150" alt="Tools" /> | <img src="./assets/menu.png" width="150" alt="Menu" /> |
+| <img src="./assets/tools.PNG" width="150" alt="Tools" /> | <img src="./assets/menu.PNG" width="150" alt="Menu" /> |
 | *Zakat Calculator, Debt Manager & Goals* | *Profile & App Customization* |
 ---
 
@@ -128,4 +128,5 @@ For privacy policy details, please visit: [amaderkhorchapati.xyz/privacy](https:
 ---
 <div align="center">
   <i>© 2026 আমাদের খরচাপাতি (Amader Khorchapati) by XenoCloud IT. All rights reserved.</i>
+
 </div>
